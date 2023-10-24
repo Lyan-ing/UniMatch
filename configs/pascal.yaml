@@ -2,7 +2,7 @@
 dataset: pascal
 nclass: 21
 crop_size: 321
-data_root: Your/Pascal/Path
+data_root: E:\python\ZEV\UniMatch\dataset\voc\VOCdevkit\VOC2007
 
 # arguments for training
 epochs: 80
